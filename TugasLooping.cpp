@@ -70,3 +70,8 @@ void hasilPrima() {
         cout << angka << " bukan bilangan prima.\n";
     }
 }
+
+//Prosedur untuk menampilkan hasil cek bilangan Fibonacci
+void hasilFibonacci() {
+    inputAngka();
+}
