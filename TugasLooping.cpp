@@ -82,3 +82,9 @@ void hasilFibonacci() {
         cout << angka << " bukan bilangan Fibonaccci.\n";
     }
 }
+
+//Program utama
+int main() {
+    while (true) {
+    }
+}
