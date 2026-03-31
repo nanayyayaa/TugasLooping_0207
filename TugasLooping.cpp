@@ -93,7 +93,10 @@ int main() {
             case 1: 
                 HasilPrima();
                 break;
-                }
+            case 2:
+                hasilFibonacci();
+                break;
+            case 0:
         }
     }
 }
