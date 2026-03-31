@@ -44,4 +44,12 @@ bool cekFibonacci(int n) {
     if (n < 0) {
         return false;
     }
+
+    int a = 0, b = 1, c;
+
+    while (a <= n) {
+        if (a == n) {
+            return true;
+        }
+    }
 }
