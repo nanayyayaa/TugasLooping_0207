@@ -39,3 +39,9 @@ bool cekPrima(int n) {
     return true;
 }
 
+//Function bool untuk mengecek bilangan Fibonacci
+bool cekFibonacci(int n) {
+    if (n < 0) {
+        return false;
+    }
+}
