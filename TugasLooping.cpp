@@ -89,6 +89,11 @@ int main() {
         tampilkanMenu();
         cin >> pilihan;
 
-        
+        switch (pilihan) {
+            case 1: 
+                HasilPrima();
+                break;
+                }
+        }
     }
 }
