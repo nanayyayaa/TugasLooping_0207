@@ -97,6 +97,10 @@ int main() {
                 hasilFibonacci();
                 break;
             case 0:
+                cout << "Program selesai. Terima kasih.\n";
+                break;
+            default:
+                cout << "Pilihan tidak valid.\n";
         }
     }
 }
