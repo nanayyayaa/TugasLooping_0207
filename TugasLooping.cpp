@@ -74,4 +74,11 @@ void hasilPrima() {
 //Prosedur untuk menampilkan hasil cek bilangan Fibonacci
 void hasilFibonacci() {
     inputAngka();
+
+    if (cekFibonacci(angka)) {
+        cout << angka << " termasuk bilangan Fibonacci.\n";
+    }
+    else {
+        cout << angka << " bukan bilangan Fibonaccci.\n";
+    }
 }
