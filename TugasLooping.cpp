@@ -86,5 +86,9 @@ void hasilFibonacci() {
 //Program utama
 int main() {
     while (true) {
+        tampilkanMenu();
+        cin >> pilihan;
+
+        
     }
 }
